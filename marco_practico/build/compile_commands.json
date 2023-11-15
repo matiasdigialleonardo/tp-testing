@@ -1,0 +1,50 @@
+[
+{
+  "directory": "D:/Analisis_de_Sistemas/Segundo_anio/Algoritmos_y_Estructuras_de_Datos_2/TP_TESTING/marco_practico/build",
+  "command": "C:\\Strawberry\\c\\bin\\g++.exe -ID:/Analisis_de_Sistemas/Segundo_anio/Algoritmos_y_Estructuras_de_Datos_2/TP_TESTING/marco_practico/ext/googletest/googletest/libfolder -ID:/Analisis_de_Sistemas/Segundo_anio/Algoritmos_y_Estructuras_de_Datos_2/TP_TESTING/marco_practico/drone_libraries -isystem D:/Analisis_de_Sistemas/Segundo_anio/Algoritmos_y_Estructuras_de_Datos_2/TP_TESTING/marco_practico/ext/googletest/googletest -isystem D:/Analisis_de_Sistemas/Segundo_anio/Algoritmos_y_Estructuras_de_Datos_2/TP_TESTING/marco_practico/ext/googletest/googletest/include -g -std=gnu++17 -o CMakeFiles\\runUnitTests.dir\\main-test\\Test.cpp.obj -c D:\\Analisis_de_Sistemas\\Segundo_anio\\Algoritmos_y_Estructuras_de_Datos_2\\TP_TESTING\\marco_practico\\main-test\\Test.cpp",
+  "file": "D:\\Analisis_de_Sistemas\\Segundo_anio\\Algoritmos_y_Estructuras_de_Datos_2\\TP_TESTING\\marco_practico\\main-test\\Test.cpp",
+  "output": "CMakeFiles\\runUnitTests.dir\\main-test\\Test.cpp.obj"
+},
+{
+  "directory": "D:/Analisis_de_Sistemas/Segundo_anio/Algoritmos_y_Estructuras_de_Datos_2/TP_TESTING/marco_practico/build",
+  "command": "C:\\Strawberry\\c\\bin\\g++.exe -ID:/Analisis_de_Sistemas/Segundo_anio/Algoritmos_y_Estructuras_de_Datos_2/TP_TESTING/marco_practico/drone_libraries -g -std=gnu++17 -o drone_libraries\\CMakeFiles\\drone_libraries.dir\\drone.cpp.obj -c D:\\Analisis_de_Sistemas\\Segundo_anio\\Algoritmos_y_Estructuras_de_Datos_2\\TP_TESTING\\marco_practico\\drone_libraries\\drone.cpp",
+  "file": "D:\\Analisis_de_Sistemas\\Segundo_anio\\Algoritmos_y_Estructuras_de_Datos_2\\TP_TESTING\\marco_practico\\drone_libraries\\drone.cpp",
+  "output": "drone_libraries\\CMakeFiles\\drone_libraries.dir\\drone.cpp.obj"
+},
+{
+  "directory": "D:/Analisis_de_Sistemas/Segundo_anio/Algoritmos_y_Estructuras_de_Datos_2/TP_TESTING/marco_practico/build",
+  "command": "C:\\Strawberry\\c\\bin\\g++.exe -ID:/Analisis_de_Sistemas/Segundo_anio/Algoritmos_y_Estructuras_de_Datos_2/TP_TESTING/marco_practico/drone_libraries -g -std=gnu++17 -o drone_libraries\\CMakeFiles\\drone_libraries.dir\\manejador_drone.cpp.obj -c D:\\Analisis_de_Sistemas\\Segundo_anio\\Algoritmos_y_Estructuras_de_Datos_2\\TP_TESTING\\marco_practico\\drone_libraries\\manejador_drone.cpp",
+  "file": "D:\\Analisis_de_Sistemas\\Segundo_anio\\Algoritmos_y_Estructuras_de_Datos_2\\TP_TESTING\\marco_practico\\drone_libraries\\manejador_drone.cpp",
+  "output": "drone_libraries\\CMakeFiles\\drone_libraries.dir\\manejador_drone.cpp.obj"
+},
+{
+  "directory": "D:/Analisis_de_Sistemas/Segundo_anio/Algoritmos_y_Estructuras_de_Datos_2/TP_TESTING/marco_practico/build",
+  "command": "C:\\Strawberry\\c\\bin\\g++.exe -ID:/Analisis_de_Sistemas/Segundo_anio/Algoritmos_y_Estructuras_de_Datos_2/TP_TESTING/marco_practico/drone_libraries -g -std=gnu++17 -o main\\CMakeFiles\\main.dir\\main.cpp.obj -c D:\\Analisis_de_Sistemas\\Segundo_anio\\Algoritmos_y_Estructuras_de_Datos_2\\TP_TESTING\\marco_practico\\main\\main.cpp",
+  "file": "D:\\Analisis_de_Sistemas\\Segundo_anio\\Algoritmos_y_Estructuras_de_Datos_2\\TP_TESTING\\marco_practico\\main\\main.cpp",
+  "output": "main\\CMakeFiles\\main.dir\\main.cpp.obj"
+},
+{
+  "directory": "D:/Analisis_de_Sistemas/Segundo_anio/Algoritmos_y_Estructuras_de_Datos_2/TP_TESTING/marco_practico/build",
+  "command": "C:\\Strawberry\\c\\bin\\g++.exe -ID:/Analisis_de_Sistemas/Segundo_anio/Algoritmos_y_Estructuras_de_Datos_2/TP_TESTING/marco_practico/ext/googletest/googlemock/include -ID:/Analisis_de_Sistemas/Segundo_anio/Algoritmos_y_Estructuras_de_Datos_2/TP_TESTING/marco_practico/ext/googletest/googlemock -isystem D:/Analisis_de_Sistemas/Segundo_anio/Algoritmos_y_Estructuras_de_Datos_2/TP_TESTING/marco_practico/ext/googletest/googletest/include -isystem D:/Analisis_de_Sistemas/Segundo_anio/Algoritmos_y_Estructuras_de_Datos_2/TP_TESTING/marco_practico/ext/googletest/googletest -g -std=c++17 -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o ext\\googletest\\googlemock\\CMakeFiles\\gmock.dir\\src\\gmock-all.cc.obj -c D:\\Analisis_de_Sistemas\\Segundo_anio\\Algoritmos_y_Estructuras_de_Datos_2\\TP_TESTING\\marco_practico\\ext\\googletest\\googlemock\\src\\gmock-all.cc",
+  "file": "D:\\Analisis_de_Sistemas\\Segundo_anio\\Algoritmos_y_Estructuras_de_Datos_2\\TP_TESTING\\marco_practico\\ext\\googletest\\googlemock\\src\\gmock-all.cc",
+  "output": "ext\\googletest\\googlemock\\CMakeFiles\\gmock.dir\\src\\gmock-all.cc.obj"
+},
+{
+  "directory": "D:/Analisis_de_Sistemas/Segundo_anio/Algoritmos_y_Estructuras_de_Datos_2/TP_TESTING/marco_practico/build",
+  "command": "C:\\Strawberry\\c\\bin\\g++.exe -isystem D:/Analisis_de_Sistemas/Segundo_anio/Algoritmos_y_Estructuras_de_Datos_2/TP_TESTING/marco_practico/ext/googletest/googlemock/include -isystem D:/Analisis_de_Sistemas/Segundo_anio/Algoritmos_y_Estructuras_de_Datos_2/TP_TESTING/marco_practico/ext/googletest/googlemock -isystem D:/Analisis_de_Sistemas/Segundo_anio/Algoritmos_y_Estructuras_de_Datos_2/TP_TESTING/marco_practico/ext/googletest/googletest/include -isystem D:/Analisis_de_Sistemas/Segundo_anio/Algoritmos_y_Estructuras_de_Datos_2/TP_TESTING/marco_practico/ext/googletest/googletest -g -std=c++17 -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o ext\\googletest\\googlemock\\CMakeFiles\\gmock_main.dir\\src\\gmock_main.cc.obj -c D:\\Analisis_de_Sistemas\\Segundo_anio\\Algoritmos_y_Estructuras_de_Datos_2\\TP_TESTING\\marco_practico\\ext\\googletest\\googlemock\\src\\gmock_main.cc",
+  "file": "D:\\Analisis_de_Sistemas\\Segundo_anio\\Algoritmos_y_Estructuras_de_Datos_2\\TP_TESTING\\marco_practico\\ext\\googletest\\googlemock\\src\\gmock_main.cc",
+  "output": "ext\\googletest\\googlemock\\CMakeFiles\\gmock_main.dir\\src\\gmock_main.cc.obj"
+},
+{
+  "directory": "D:/Analisis_de_Sistemas/Segundo_anio/Algoritmos_y_Estructuras_de_Datos_2/TP_TESTING/marco_practico/build",
+  "command": "C:\\Strawberry\\c\\bin\\g++.exe -ID:/Analisis_de_Sistemas/Segundo_anio/Algoritmos_y_Estructuras_de_Datos_2/TP_TESTING/marco_practico/ext/googletest/googletest/include -ID:/Analisis_de_Sistemas/Segundo_anio/Algoritmos_y_Estructuras_de_Datos_2/TP_TESTING/marco_practico/ext/googletest/googletest -g -std=c++17 -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o ext\\googletest\\googletest\\CMakeFiles\\gtest.dir\\src\\gtest-all.cc.obj -c D:\\Analisis_de_Sistemas\\Segundo_anio\\Algoritmos_y_Estructuras_de_Datos_2\\TP_TESTING\\marco_practico\\ext\\googletest\\googletest\\src\\gtest-all.cc",
+  "file": "D:\\Analisis_de_Sistemas\\Segundo_anio\\Algoritmos_y_Estructuras_de_Datos_2\\TP_TESTING\\marco_practico\\ext\\googletest\\googletest\\src\\gtest-all.cc",
+  "output": "ext\\googletest\\googletest\\CMakeFiles\\gtest.dir\\src\\gtest-all.cc.obj"
+},
+{
+  "directory": "D:/Analisis_de_Sistemas/Segundo_anio/Algoritmos_y_Estructuras_de_Datos_2/TP_TESTING/marco_practico/build",
+  "command": "C:\\Strawberry\\c\\bin\\g++.exe -isystem D:/Analisis_de_Sistemas/Segundo_anio/Algoritmos_y_Estructuras_de_Datos_2/TP_TESTING/marco_practico/ext/googletest/googletest/include -isystem D:/Analisis_de_Sistemas/Segundo_anio/Algoritmos_y_Estructuras_de_Datos_2/TP_TESTING/marco_practico/ext/googletest/googletest -g -std=c++17 -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o ext\\googletest\\googletest\\CMakeFiles\\gtest_main.dir\\src\\gtest_main.cc.obj -c D:\\Analisis_de_Sistemas\\Segundo_anio\\Algoritmos_y_Estructuras_de_Datos_2\\TP_TESTING\\marco_practico\\ext\\googletest\\googletest\\src\\gtest_main.cc",
+  "file": "D:\\Analisis_de_Sistemas\\Segundo_anio\\Algoritmos_y_Estructuras_de_Datos_2\\TP_TESTING\\marco_practico\\ext\\googletest\\googletest\\src\\gtest_main.cc",
+  "output": "ext\\googletest\\googletest\\CMakeFiles\\gtest_main.dir\\src\\gtest_main.cc.obj"
+}
+]

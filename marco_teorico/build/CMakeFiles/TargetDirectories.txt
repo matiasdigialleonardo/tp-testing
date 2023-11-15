@@ -1,0 +1,13 @@
+D:/Analisis_de_Sistemas/Segundo_anio/Algoritmos_y_Estructuras_de_Datos_2/TP_TESTING/build/CMakeFiles/main.dir
+D:/Analisis_de_Sistemas/Segundo_anio/Algoritmos_y_Estructuras_de_Datos_2/TP_TESTING/build/CMakeFiles/edit_cache.dir
+D:/Analisis_de_Sistemas/Segundo_anio/Algoritmos_y_Estructuras_de_Datos_2/TP_TESTING/build/CMakeFiles/rebuild_cache.dir
+D:/Analisis_de_Sistemas/Segundo_anio/Algoritmos_y_Estructuras_de_Datos_2/TP_TESTING/build/CMakeFiles/list_install_components.dir
+D:/Analisis_de_Sistemas/Segundo_anio/Algoritmos_y_Estructuras_de_Datos_2/TP_TESTING/build/CMakeFiles/install.dir
+D:/Analisis_de_Sistemas/Segundo_anio/Algoritmos_y_Estructuras_de_Datos_2/TP_TESTING/build/CMakeFiles/install/local.dir
+D:/Analisis_de_Sistemas/Segundo_anio/Algoritmos_y_Estructuras_de_Datos_2/TP_TESTING/build/CMakeFiles/install/strip.dir
+D:/Analisis_de_Sistemas/Segundo_anio/Algoritmos_y_Estructuras_de_Datos_2/TP_TESTING/build/src/CMakeFiles/edit_cache.dir
+D:/Analisis_de_Sistemas/Segundo_anio/Algoritmos_y_Estructuras_de_Datos_2/TP_TESTING/build/src/CMakeFiles/rebuild_cache.dir
+D:/Analisis_de_Sistemas/Segundo_anio/Algoritmos_y_Estructuras_de_Datos_2/TP_TESTING/build/src/CMakeFiles/list_install_components.dir
+D:/Analisis_de_Sistemas/Segundo_anio/Algoritmos_y_Estructuras_de_Datos_2/TP_TESTING/build/src/CMakeFiles/install.dir
+D:/Analisis_de_Sistemas/Segundo_anio/Algoritmos_y_Estructuras_de_Datos_2/TP_TESTING/build/src/CMakeFiles/install/local.dir
+D:/Analisis_de_Sistemas/Segundo_anio/Algoritmos_y_Estructuras_de_Datos_2/TP_TESTING/build/src/CMakeFiles/install/strip.dir

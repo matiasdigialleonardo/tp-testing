@@ -1,0 +1,45 @@
+Start testing: Nov 14 23:02 Argentina Standard Time
+----------------------------------------------------------
+1/1 Testing: UnitTests
+1/1 Test: UnitTests
+Command: "D:/Analisis_de_Sistemas/Segundo_anio/Algoritmos_y_Estructuras_de_Datos_2/TP_TESTING/marco_practico/build/runUnitTests.exe"
+Directory: D:/Analisis_de_Sistemas/Segundo_anio/Algoritmos_y_Estructuras_de_Datos_2/TP_TESTING/marco_practico/build
+"UnitTests" start time: Nov 14 23:02 Argentina Standard Time
+Output:
+----------------------------------------------------------
+Running main() from D:/Analisis_de_Sistemas/Segundo_anio/Algoritmos_y_Estructuras_de_Datos_2/TP_TESTING/marco_practico/ext/googletest/googletest/src/gtest_main.cc
+[==========] Running 9 tests from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 9 tests from DroneMethodsTests
+[ RUN      ] DroneMethodsTests.Despegar
+[       OK ] DroneMethodsTests.Despegar (0 ms)
+[ RUN      ] DroneMethodsTests.Aterrizar
+[       OK ] DroneMethodsTests.Aterrizar (0 ms)
+[ RUN      ] DroneMethodsTests.Elevar
+[       OK ] DroneMethodsTests.Elevar (0 ms)
+[ RUN      ] DroneMethodsTests.Bajar
+[       OK ] DroneMethodsTests.Bajar (0 ms)
+[ RUN      ] DroneMethodsTests.GirarDerecha
+[       OK ] DroneMethodsTests.GirarDerecha (0 ms)
+[ RUN      ] DroneMethodsTests.GirarIzquierda
+[       OK ] DroneMethodsTests.GirarIzquierda (0 ms)
+[ RUN      ] DroneMethodsTests.DescargarPaquete
+[       OK ] DroneMethodsTests.DescargarPaquete (0 ms)
+[ RUN      ] DroneMethodsTests.SacarFotoRecepcion
+[       OK ] DroneMethodsTests.SacarFotoRecepcion (0 ms)
+[ RUN      ] DroneMethodsTests.NotificarEntrega
+[       OK ] DroneMethodsTests.NotificarEntrega (0 ms)
+[----------] 9 tests from DroneMethodsTests (7 ms total)
+
+[----------] Global test environment tear-down
+[==========] 9 tests from 1 test suite ran. (7 ms total)
+[  PASSED  ] 9 tests.
+<end of output>
+Test time =   0.05 sec
+----------------------------------------------------------
+Test Passed.
+"UnitTests" end time: Nov 14 23:02 Argentina Standard Time
+"UnitTests" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Nov 14 23:02 Argentina Standard Time

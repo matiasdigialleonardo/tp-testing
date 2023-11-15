@@ -1,0 +1,12 @@
+# ninja log v5
+7	460	7217169362395265	drone_libraries/CMakeFiles/drone_libraries.dir/drone.cpp.obj	6c7c0a8182c76baf
+27	478	7217169362615266	drone_libraries/CMakeFiles/drone_libraries.dir/manejador_drone.cpp.obj	e446a506af8dcc0f
+34	503	7217169362825279	main/CMakeFiles/main.dir/main.cpp.obj	65ef892c4f3d2eb2
+478	676	7217169364585252	drone_libraries/libdrone_libraries.a	89d5f1ab8dfc3bb
+676	851	7217169366225247	main/main.exe	73d5733e7572b3b4
+37	952	7217169501477264	ext/googletest/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.obj	d837b2ea008d904c
+10	1153	7217169503467255	CMakeFiles/runUnitTests.dir/main-test/Test.cpp.obj	566453deb151976f
+30	5495	7217169546771912	ext/googletest/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.obj	83db13b7afe67fd7
+5496	7306	7217169565011916	lib/libgtestd.a	5df3a7903a1b8e9c
+7306	7414	7217169566111928	lib/libgtest_maind.a	f8c500e5d769e904
+7414	9454	7217169586341914	runUnitTests.exe	a0e53f799aa113ae

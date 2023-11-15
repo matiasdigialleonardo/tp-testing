@@ -1,0 +1,8 @@
+[
+{
+  "directory": "D:/Analisis_de_Sistemas/Segundo_anio/Algoritmos_y_Estructuras_de_Datos_2/TP_TESTING/build",
+  "command": "C:\\Strawberry\\c\\bin\\g++.exe -ID:/Analisis_de_Sistemas/Segundo_anio/Algoritmos_y_Estructuras_de_Datos_2/TP_TESTING -g -o CMakeFiles\\main.dir\\main.cpp.obj -c D:\\Analisis_de_Sistemas\\Segundo_anio\\Algoritmos_y_Estructuras_de_Datos_2\\TP_TESTING\\main.cpp",
+  "file": "D:\\Analisis_de_Sistemas\\Segundo_anio\\Algoritmos_y_Estructuras_de_Datos_2\\TP_TESTING\\main.cpp",
+  "output": "CMakeFiles\\main.dir\\main.cpp.obj"
+}
+]
